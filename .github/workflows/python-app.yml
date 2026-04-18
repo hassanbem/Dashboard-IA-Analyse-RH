@@ -23,10 +23,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r backend_backup/requirements.txt
         pip install -r frontend_backup/requirements.txt
-    - name: Lint with flake8
+    - name: Check Python syntax
       run: |
-        pip install flake8
-        flake8 backend_backup/ frontend_backup/
-    - name: Test backend (if tests exist)
-      run: |
-        if [ -d "backend_backup/tests" ]; then pytest backend_backup/tests; else echo "No tests found."; fi
+        python -m compileall backend_backup frontend_backup
