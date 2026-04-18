@@ -1,0 +1,17 @@
+# --- Frontend Framework ---
+streamlit
+
+# --- Communication ---
+requests
+
+# --- Data Handling ---
+pandas
+numpy
+
+# --- Visualization ---
+plotly
+matplotlib
+seaborn
+
+# --- Utilities ---
+python-dateutil
