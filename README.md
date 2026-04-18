@@ -9,7 +9,12 @@
 
 A professional, end-to-end dashboard for HR analytics using AI and data science. This project features a Python backend and a Streamlit frontend for interactive data exploration, sentiment analysis, topic extraction, clustering, and KPI calculation.
 
-![screenshot](./frontend_backup/demo.png)
+![demo](./frontend_backup/demo.png)
+
+## Demo Data
+
+A sample HR analytics dataset is included for demo purposes:
+[`backend_backup/data/evaluation_formation_100.csv`](backend_backup/data/evaluation_formation_100.csv)
 
 ## Features
 - Sentiment analysis with BERT

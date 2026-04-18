@@ -1,0 +1,101 @@
+evaluation_id,formation_id,type_formation,formateur_id,satisfaction,contenu,logistique,applicabilite,commentaire,langue,date
+1,F010,Excel Avancé,FOR10,4,3,5,4,Très bonne ambiance et apprentissage efficace,FR,2024-08-05
+2,F010,Excel Avancé,FOR10,1,1,2,1,Pas de mise en situation professionnelle réelle,FR,2024-01-05
+3,F001,Lean Six Sigma,FOR01,5,4,4,3,Formation très utile et bien structurée,FR,2024-01-05
+4,F005,SAP,FOR05,1,2,3,2,Pas de mise en situation professionnelle réelle,FR,2024-01-05
+5,F005,SAP,FOR05,1,1,3,2,Formation annulée et reportée plusieurs fois,FR,2024-08-19
+6,F004,Soft Skills,FOR04,1,3,2,1,Support de cours incomplet et mal structuré,FR,2024-02-15
+7,F007,Processus Métier,FOR07,1,3,3,2,Manque d'exemples concrets liés à notre secteur d'activité,FR,2024-06-03
+8,F009,Gestion de Projet,FOR09,5,4,5,5,"Objectifs pleinement atteints, très satisfait",FR,2024-07-15
+9,F002,SAP,FOR02,1,3,2,1,Contenu peu adapté à notre contexte métier,FR,2024-02-02
+10,F002,SAP,FOR02,2,3,2,2,Je n’ai pas bien compris certaines fonctionnalités,FR,2024-01-18
+11,F010,Excel Avancé,FOR10,2,3,2,1,Peu d'applicabilité dans mon poste actuel,FR,2024-09-16
+12,F002,SAP,FOR02,1,1,3,2,Pas de suivi post-formation prévu,FR,2024-05-06
+13,F003,Processus Métier,FOR03,4,4,4,4,Bonne formation mais durée courte,FR,2024-02-02
+14,F009,Gestion de Projet,FOR09,1,2,2,1,Pas d'adaptation au niveau réel des participants,FR,2024-10-21
+15,F009,Gestion de Projet,FOR09,4,3,4,3,Excellente organisation et bon rythme,FR,2024-09-02
+16,F003,Processus Métier,FOR03,1,1,2,2,Objectifs pédagogiques non atteints selon moi,FR,2024-09-16
+17,F007,Processus Métier,FOR07,4,5,4,5,Excellente formation très opérationnelle,FR,2024-04-10
+18,F007,Processus Métier,FOR07,5,5,5,5,Parfaitement adaptée à nos besoins,FR,2024-04-10
+19,F006,Lean Six Sigma,FOR06,2,1,3,2,Pas assez d'interactivité avec les participants,FR,2024-10-21
+20,F009,Gestion de Projet,FOR09,1,1,1,1,Pas de réponse satisfaisante à mes questions,FR,2024-08-19
+21,F002,SAP,FOR02,1,2,2,1,"Formation peu interactive, uniquement descendante",FR,2024-04-10
+22,F004,Soft Skills,FOR04,4,3,3,3,Formateur dynamique et motivant,FR,2024-10-21
+23,F009,Gestion de Projet,FOR09,2,3,1,1,Pas assez d'interactivité avec les participants,FR,2024-03-01
+24,F004,Soft Skills,FOR04,2,1,1,1,"Déçu par le contenu, beaucoup trop superficiel",FR,2024-01-18
+25,F004,Soft Skills,FOR04,1,2,2,2,"Contenu redondant, beaucoup de répétitions inutiles",FR,2024-03-20
+26,F006,Lean Six Sigma,FOR06,1,3,2,2,Pas de réponse satisfaisante à mes questions,FR,2024-06-03
+27,F002,SAP,FOR02,1,3,3,1,Formation répétitive par rapport à ce que je connais déjà,FR,2024-07-15
+28,F007,Processus Métier,FOR07,4,3,5,5,Excellente organisation et bon rythme,FR,2024-01-18
+29,F001,Lean Six Sigma,FOR01,1,2,1,2,Le groupe était trop hétérogène en niveau,FR,2024-08-05
+30,F003,Processus Métier,FOR03,5,5,4,4,Très utile pour mon poste applicable immédiatement,FR,2024-02-02
+31,F007,Processus Métier,FOR07,2,3,1,1,Le déroulé de la formation était confus et désordonné,FR,2024-07-01
+32,F006,Lean Six Sigma,FOR06,2,3,3,2,Contenu peu adapté à notre contexte métier,FR,2024-02-15
+33,F008,Soft Skills,FOR08,4,5,4,5,Applicable immédiatement dans mon quotidien professionnel,FR,2024-02-02
+34,F002,SAP,FOR02,1,3,2,1,"Mauvaise gestion du temps, fin bâclée",FR,2024-03-01
+35,F007,Processus Métier,FOR07,4,4,3,4,Très utile pour mon développement professionnel,FR,2024-08-19
+36,F001,Lean Six Sigma,FOR01,1,2,2,2,Les objectifs de la formation n'étaient pas clairs,FR,2024-05-06
+37,F002,SAP,FOR02,1,2,3,2,Outils pédagogiques obsolètes et peu engageants,FR,2024-04-25
+38,F006,Lean Six Sigma,FOR06,2,3,2,1,Les exercices ne correspondaient pas aux objectifs,FR,2024-04-25
+39,F001,Lean Six Sigma,FOR01,2,3,3,1,"Salle de formation inadaptée, mauvaise acoustique",FR,2024-09-02
+40,F005,SAP,FOR05,2,1,1,2,Trop de participants pour une bonne qualité d'apprentissage,FR,2024-01-18
+41,F007,Processus Métier,FOR07,2,2,2,2,Manque de retour d'expérience de la part du formateur,FR,2024-03-01
+42,F004,Soft Skills,FOR04,1,1,3,1,"Formation trop généraliste, pas assez spécialisée",FR,2024-02-02
+43,F005,SAP,FOR05,2,2,1,1,Contenu trop dense pour la durée de la formation,FR,2024-05-06
+44,F009,Gestion de Projet,FOR09,5,3,5,4,Excellente organisation et bon rythme,FR,2024-05-06
+45,F002,SAP,FOR02,2,1,3,1,"Mauvaise gestion du temps, fin bâclée",FR,2024-01-05
+46,F009,Gestion de Projet,FOR09,1,2,3,2,Formation annulée et reportée plusieurs fois,FR,2024-09-16
+47,F006,Lean Six Sigma,FOR06,5,4,4,4,Formateur très disponible et à l'écoute,FR,2024-02-02
+48,F001,Lean Six Sigma,FOR01,2,2,1,2,"Contenu daté, ne reflète pas les pratiques actuelles",FR,2024-04-25
+49,F002,SAP,FOR02,2,2,2,2,"Organisation chaotique, programme modifié en dernière minute",FR,2024-01-18
+50,F003,Processus Métier,FOR03,2,1,2,2,Le formateur lisait directement ses diapositives,FR,2024-02-15
+51,F004,Soft Skills,FOR04,2,1,1,1,"Déçu par le contenu, beaucoup trop superficiel",FR,2024-07-01
+52,F008,Soft Skills,FOR08,1,2,1,1,Formateur peu motivant et peu dynamique,FR,2024-01-05
+53,F009,Gestion de Projet,FOR09,1,2,3,1,Peu de clarté sur les prérequis nécessaires,FR,2024-03-01
+54,F008,Soft Skills,FOR08,1,2,1,2,"Contenu redondant, beaucoup de répétitions inutiles",FR,2024-10-07
+55,F004,Soft Skills,FOR04,1,2,2,2,Peu de valeur ajoutée par rapport au coût,FR,2024-04-25
+56,F002,SAP,FOR02,5,4,5,5,Bon équilibre entre théorie et pratique,FR,2024-07-01
+57,F003,Processus Métier,FOR03,2,1,1,2,Pas de réponse satisfaisante à mes questions,FR,2024-04-25
+58,F004,Soft Skills,FOR04,1,3,3,1,Pas de documentation remise à la fin,FR,2024-09-16
+59,F007,Processus Métier,FOR07,1,2,1,2,"Formation trop théorique, manque d'exemples pratiques",FR,2024-09-02
+60,F008,Soft Skills,FOR08,5,3,3,5,Formation très enrichissante et bien animée,FR,2024-02-15
+61,F004,Soft Skills,FOR04,1,3,2,1,Contenu trop dense pour la durée de la formation,FR,2024-03-20
+62,F001,Lean Six Sigma,FOR01,5,4,5,5,Formation interactive et engageante,FR,2024-03-20
+63,F010,Excel Avancé,FOR10,2,2,1,1,"Contenu redondant, beaucoup de répétitions inutiles",FR,2024-05-20
+64,F007,Processus Métier,FOR07,2,2,1,1,"Formation peu interactive, uniquement descendante",FR,2024-02-15
+65,F004,Soft Skills,FOR04,2,3,3,2,"Organisation chaotique, programme modifié en dernière minute",FR,2024-08-05
+66,F007,Processus Métier,FOR07,1,2,3,2,"Formation trop théorique, manque d'exemples pratiques",FR,2024-03-20
+67,F009,Gestion de Projet,FOR09,2,1,3,1,Manque de clarté dans les explications du formateur,FR,2024-07-01
+68,F002,SAP,FOR02,2,1,2,2,Formateur peu disponible pour les questions individuelles,FR,2024-01-18
+69,F003,Processus Métier,FOR03,1,3,2,1,Mauvaise qualité des supports pédagogiques fournis,FR,2024-07-01
+70,F004,Soft Skills,FOR04,4,4,4,4,Formation dense mais très bien dosée,FR,2024-08-05
+71,F004,Soft Skills,FOR04,5,5,4,5,Formation complète et bien structurée,FR,2024-05-06
+72,F004,Soft Skills,FOR04,2,1,2,1,Les exercices ne correspondaient pas aux objectifs,FR,2024-06-17
+73,F002,SAP,FOR02,1,1,1,1,Pas d'adaptation au niveau réel des participants,FR,2024-02-02
+74,F002,SAP,FOR02,1,2,3,1,Pas assez d'interactivité avec les participants,FR,2024-09-16
+75,F008,Soft Skills,FOR08,4,5,5,3,Bonne pédagogie et exemples concrets pertinents,FR,2024-04-25
+76,F005,SAP,FOR05,1,3,2,1,Outils pédagogiques obsolètes et peu engageants,FR,2024-10-21
+77,F005,SAP,FOR05,4,4,4,4,Très bonne formation globalement,FR,2024-03-01
+78,F004,Soft Skills,FOR04,1,1,3,1,Formation répétitive par rapport à ce que je connais déjà,FR,2024-08-19
+79,F008,Soft Skills,FOR08,4,5,5,3,Formation interactive et engageante,FR,2024-10-07
+80,F009,Gestion de Projet,FOR09,2,3,3,2,"Trop axé sur la théorie, manque d'ateliers pratiques",FR,2024-06-17
+81,F001,Lean Six Sigma,FOR01,2,3,1,1,Les cas pratiques étaient trop simples et irréalistes,FR,2024-09-02
+82,F005,SAP,FOR05,5,3,3,5,"Très satisfait, formation de qualité",FR,2024-04-25
+83,F002,SAP,FOR02,2,3,2,1,Aucune évaluation des acquis à la fin,FR,2024-03-20
+84,F005,SAP,FOR05,1,3,1,2,Durée insuffisante pour couvrir tous les sujets,FR,2024-08-19
+85,F004,Soft Skills,FOR04,2,3,3,2,Manque de profondeur sur les cas réels,FR,2024-02-15
+86,F002,SAP,FOR02,1,1,3,1,Aucune évaluation des acquis à la fin,FR,2024-07-01
+87,F009,Gestion de Projet,FOR09,2,3,1,1,Formateur peu disponible pour les questions individuelles,FR,2024-02-15
+88,F006,Lean Six Sigma,FOR06,2,3,2,2,Trop théorique difficile à appliquer,FR,2024-03-20
+89,F010,Excel Avancé,FOR10,2,2,1,2,Aucune évaluation des acquis à la fin,FR,2024-05-06
+90,F003,Processus Métier,FOR03,4,4,4,4,Bon équilibre entre théorie et pratique,FR,2024-08-05
+91,F010,Excel Avancé,FOR10,5,4,3,4,"Très satisfait, formation de qualité",FR,2024-07-01
+92,F005,SAP,FOR05,5,5,4,4,Formateur très compétent et clair,FR,2024-03-01
+93,F006,Lean Six Sigma,FOR06,4,3,3,3,Formation interactive et engageante,FR,2024-03-01
+94,F008,Soft Skills,FOR08,4,5,4,3,Formateur très disponible et à l'écoute,FR,2024-06-03
+95,F003,Processus Métier,FOR03,2,2,3,1,Les cas pratiques étaient trop simples et irréalistes,FR,2024-05-20
+96,F007,Processus Métier,FOR07,2,3,2,2,Certains modules étaient carrément hors sujet,FR,2024-02-15
+97,F001,Lean Six Sigma,FOR01,4,4,3,3,Contenu intéressant mais trop théorique,FR,2024-01-05
+98,F005,SAP,FOR05,2,1,2,2,Le groupe était trop hétérogène en niveau,FR,2024-08-05
+99,F007,Processus Métier,FOR07,4,3,4,4,Bon niveau et parfaitement adapté à nos besoins,FR,2024-01-05
+100,F007,Processus Métier,FOR07,2,1,2,1,Les exercices ne correspondaient pas aux objectifs,FR,2024-09-16
