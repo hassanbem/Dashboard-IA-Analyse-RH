@@ -9,12 +9,12 @@
 
 A professional, end-to-end dashboard for HR analytics using AI and data science. This project features a Python backend and a Streamlit frontend for interactive data exploration, sentiment analysis, topic extraction, clustering, and KPI calculation.
 
-![demo](./frontend_backup/demo.png)
+![demo](./frontend/demo.png)
 
 ## Demo Data
 
 A sample HR analytics dataset is included for demo purposes:
-[`backend_backup/data/evaluation_formation_100.csv`](backend_backup/data/evaluation_formation_100.csv)
+[`backend/data/evaluation_formation_100.csv`](backend/data/evaluation_formation_100.csv)
 
 ## Features
 - Sentiment analysis with BERT
@@ -28,7 +28,7 @@ A sample HR analytics dataset is included for demo purposes:
 
 ### Backend
 ```bash
-cd backend_backup
+cd backend
 python -m venv .venv  # if not already created
 .\.venv\Scripts\activate  # Windows
 pip install -r requirements.txt
@@ -37,14 +37,14 @@ python main.py
 
 ### Frontend
 ```bash
-cd frontend_backup
+cd frontend
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
 ## Folder Structure
-- `backend_backup/` — Python backend (APIs, models, services)
-- `frontend_backup/` — Streamlit frontend
+- `backend/` — Python backend (APIs, models, services)
+- `frontend/` — Streamlit frontend
 - `code/` — Model cache and artifacts
 
 ## Requirements

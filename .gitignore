@@ -1,8 +1,8 @@
 # Python virtual environments
 .venv/
 venv/
-backend_backup/venv/
-frontend_backup/venv/
+backend/venv/
+frontend/venv/
 
 # Python cache/artifacts
 __pycache__/
