@@ -2,7 +2,7 @@
 # Dashboard IA Analyse RH
 
 ![Build Status](https://github.com/hassanbem/Dashboard-IA-Analyse-RH/actions/workflows/python-app.yml/badge.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/hassanbem/Dashboard-IA-Analyse-RH)
+![Code size](https://img.shields.io/github/languages/code-size/hassanbem/Dashboard-IA-Analyse-RH)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hassanbem/Dashboard-IA-Analyse-RH)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
