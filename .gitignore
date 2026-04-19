@@ -30,6 +30,9 @@ code/backend/models_cache/
 .vscode/
 .idea/
 
+# Local environment secrets
+.env
+
 # OS files
 .DS_Store
 Thumbs.db

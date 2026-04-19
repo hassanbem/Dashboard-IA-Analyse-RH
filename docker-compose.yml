@@ -3,9 +3,15 @@ services:
     build:
       context: ./backend
     container_name: t2d-backend
+    environment:
+      - HF_TOKEN=${HF_TOKEN:-}
+      - HF_HOME=/cache/huggingface
+      - TRANSFORMERS_CACHE=/cache/huggingface
     ports:
       - "8000:8000"
-    restart: unless-stopped
+    volumes:
+      - hf_cache:/cache/huggingface
+    restart: unless-stopped  
 
   frontend:
     build:
@@ -18,3 +24,6 @@ services:
     depends_on:
       - backend
     restart: unless-stopped
+
+volumes:
+  hf_cache:
