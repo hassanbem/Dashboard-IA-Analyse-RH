@@ -5,7 +5,7 @@
 ![Code size](https://img.shields.io/github/languages/code-size/hassanbem/Dashboard-IA-Analyse-RH)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hassanbem/Dashboard-IA-Analyse-RH)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 
 A professional, end-to-end dashboard for HR analytics using AI and data science. This project features a Python backend and a Streamlit frontend for interactive data exploration, sentiment analysis, topic extraction, clustering, and KPI calculation.
 
@@ -69,7 +69,7 @@ docker compose down
 - `code/` — Model cache and artifacts
 
 ## Requirements
-- Python 3.8+
+- Python 3.9+
 - pip
 - Streamlit
 - Docker (optional)
