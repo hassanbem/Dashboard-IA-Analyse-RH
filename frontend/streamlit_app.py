@@ -7,6 +7,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from datetime import datetime
 import time
+import os
 
 # Configuration de la page
 st.set_page_config(
@@ -17,7 +18,7 @@ st.set_page_config(
 )
 
 # URL de l'API
-API_URL = "http://127.0.0.1:8000/"
+API_URL = os.getenv("API_URL", "http://127.0.0.1:8000").rstrip("/")
 
 # CSS personnalisé
 st.markdown("""
