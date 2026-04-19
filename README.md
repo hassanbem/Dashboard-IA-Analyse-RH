@@ -42,6 +42,27 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
+## Run with Docker
+
+From the project root:
+
+```bash
+docker compose up --build -d
+docker compose ps
+```
+
+Open:
+- Frontend: `http://localhost:8501`
+- Backend health: `http://localhost:8000/health`
+
+Useful commands:
+
+```bash
+docker compose logs -f backend
+docker compose logs -f frontend
+docker compose down
+```
+
 ## Folder Structure
 - `backend/` — Python backend (APIs, models, services)
 - `frontend/` — Streamlit frontend
